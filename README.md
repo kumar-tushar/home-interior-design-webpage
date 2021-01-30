@@ -3,4 +3,4 @@
  
 Developed using HTML, CSS & Javascript
 
-GitHub Page 
+GitHub Page https://kumar-tushar.github.io/Home-Interior-Webpage
